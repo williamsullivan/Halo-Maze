@@ -1,0 +1,8 @@
+Construct Epitath n 
+Epitath Construct s
+Construct Bathroom e
+Bathroom Construct w
+Epitath Bathroom e
+Bathroom Epitath n
+Construct Attic s
+Attic Construct n
